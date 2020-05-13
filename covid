@@ -217,21 +217,6 @@ sub away {
         return $aww;
 }
 
-sub mylogo {
-        my @bw = ("2","3","4","5","6","7","8","9","10","11","12","13","14","15");
-        my $aco = $bw[rand scalar @bw];
-        my $bco = "1";
-        my $mylogo = "\003".$aco.",".$bco."C\003".$bco.",".$aco."O\003".$aco.",".$bco."\037V\037\003".$bco.",".$aco."I\003".$aco.",".$bco."D\003";
-        return $mylogo;
-}
-
-sub uptime {
-        my $etime = time();
-        my $ctime = $etime - $utime;
-        my $dtime = Time::Seconds->new( $ctime );
-        return $dtime->pretty;
-}
-
 sub versi {
         my $vver = scramble_case('jobot created by ijoo - running with perl');
         return $vver;
@@ -250,6 +235,21 @@ sub cycle {
         );
         my $cww = $cw[rand scalar @cw];
         return $cww;
+}
+
+sub mylogo {
+        my @bw = ("2","3","4","5","6","7","8","9","10","11","12","13","14","15");
+        my $aco = $bw[rand scalar @bw];
+        my $bco = "1";
+        my $mylogo = "\003".$aco.",".$bco."C\003".$bco.",".$aco."O\003".$aco.",".$bco."\037V\037\003".$bco.",".$aco."I\003".$aco.",".$bco."D\003";
+        return $mylogo;
+}
+
+sub uptime {
+        my $etime = time();
+        my $ctime = $etime - $utime;
+        my $dtime = Time::Seconds->new( $ctime );
+        return $dtime->pretty;
 }
 
 sub sizeConversion () {
