@@ -11,7 +11,7 @@ use Time::Seconds;
 use POSIX;
 
 $botnick = "PenJaGa";
-$botpass = "dreamer321";
+$botpass = "xxxxxx";
 $admin = "ijoo";
 $server = "irc.chating.id";
 $port = "6667";
