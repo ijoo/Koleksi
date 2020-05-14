@@ -32,7 +32,6 @@ sub connect(){
  print $sock "nick $botnick \n";
 }
 $countaway = 0;
-$countcycle = 0;
 $utime = time();
 $chanonly = scramble_case('masukan perintah di channel');
 
@@ -43,17 +42,10 @@ while(<$sock>){
  $backup = $line;
  $line   = lc($line);
  $countaway ++;
- $countcycle ++;
 
 if ($countaway == "100") {
    print $sock "AWAY ".&mylogo." [\037Uptime:\037 ".&uptime."] ".chr(187)." ".&away." ".chr(171)."\n";
    $countaway = 0;
-}
-
-if ($countcycle == "500") {
-   print $sock "PART $basechan :".&mylogo." ".&cycle."\n";
-   print $sock "JOIN $basechan \r\n";
-   $countcycle = 0;
 }
 
 if($backup =~ m/^PING :(.*?)$/gi) {
@@ -79,7 +71,7 @@ if($backup=~/^:(\S+)!(\S+)\@(\S+) PRIVMSG $botnick :\001VERSION\001.$/){
  }
 
 ### Chat ###
-if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :.say (.*?).$/){
+if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :$botnick .say (.*?).$/){
    print $sock "PRIVMSG $3 :$4\n";
 }
 
@@ -91,21 +83,15 @@ if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :.pa (.*?).$/){
    print $sock "PART $4\n";
 }
 
-if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :.logo/){
+if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :$botnick .logo/){
    print $sock "PRIVMSG $3 :".&mylogo."\n";
-}
-
-if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :$botnick cycle/){
-   print $sock "PART $3 :".&mylogo." ".&cycle."\n";
-   sleep(3);
-   print $sock "JOIN $3 \r\n";
 }
 
 if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :$botnick off/){
    print $sock "NOTICE $admin :$notc TuRnInG oFF\n";
    my $shutdown = scramble_case('shutdown request by');
    print $sock "QUIT ".&mylogo." $shutdown \0030,1 $admin \003\n";
-   my $mati = `kill -9 $$`;
+   exit();
 }
 
 if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :$botnick jump/){
@@ -127,7 +113,7 @@ if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :$botnick ver/){
    my $ramy = &sizeConversion($ramz[1]);
    print $sock "PRIVMSG $3 :$notc RunNInG wIth peRL $^V ".&mylogo."\n";
    print $sock "PRIVMSG $3 :$notc bOt rUn on \002$sos1\002 wIth RAM \002$ramy\002 MB\n";
-   print $sock "PRIVMSG $3 :$notc laUnCh bAckGroUNd Pid\002 $$\002\n";
+   print $sock "PRIVMSG $3 :$notc LaUnCh bAckGroUNd Pid\002 $$\002\n";
 }
 
 if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :$botnick .vo (.*?).$/){
@@ -191,10 +177,11 @@ if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :$botnick .do (.*?).$/){
    }
 }
 
-if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :$botnick cyc/){
+if($backup=~/^:$admin!(\S+)\@(\S+) PRIVMSG (\S+) :$botnick cycle/){
    if ($3 =~ /#/) {
-        print $sock "PART $3\n";
-        print $sock "JOIN $3\n";
+        print $sock "PART $3 :".&mylogo." ".&cycle."\n";
+        sleep(2);
+        print $sock "JOIN $3 \r\n";
    } else {
         print $sock "PRIVMSG $admin :$notc $chanonly\n";
    }
@@ -238,12 +225,13 @@ sub cycle {
 }
 
 sub mylogo {
-        my @bw = ("2","3","4","5","6","7","8","9","10","11","12","13","14","15");
+        my @bw = ("0","1","2","3","4","5","6","7","8","9","10","11","12");
         my $aco = $bw[rand scalar @bw];
-        my $bco = "1";
-        my $mylogo = "\003".$aco.",".$bco."C\003".$bco.",".$aco."O\003".$aco.",".$bco."\037V\037\003".$bco.",".$aco."I\003".$aco.",".$bco."D\003";
+        my $bco = $bw[rand scalar @bw];
+        my $mylogo = "\003".$aco.",".$bco."C\003".$bco.",".$aco."\037o\037\003".$aco.",".$bco."V\003".$bco.",".$aco."I\003".$aco.",".$bco."D\003";
         return $mylogo;
 }
+
 
 sub uptime {
         my $etime = time();
